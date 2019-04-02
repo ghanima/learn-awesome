@@ -1,7 +1,7 @@
 # Learning
 ---
 
-- prerequisites:
+- prerequisites: English
 - subtopics:
 
 ---
@@ -13,9 +13,9 @@
 ## Code
 
 ## Books
-- [The Art of Learning](https://www.goodreads.com/book/show/857333.The_Art_of_Learning)
+- [The Art of Learning](https://www.goodreads.com/book/show/857333.The_Art_of_Learning) by Josh Watzkin
 - [Learning: A Very Short Introduction](https://www.goodreads.com/book/show/27310222-learning)
-- [How People Learn: Brain, Mind, Experience, and School](https://www.nap.edu/catalog/9853/how-people-learn-brain-mind-experience-and-school-expanded-edition)
+- [How People Learn: Brain, Mind, Experience, and School](https://www.nap.edu/catalog/9853/how-people-learn-brain-mind-experience-and-school-expanded-edition) by NAP
 
 ## Images
 
@@ -26,18 +26,22 @@
 
 ## Articles
 
+- [There's No Speed Limit](https://sivers.org/kimo) by [Derek Sivers](#people)
+
 ## Audio, Podcasts
 
 ## People
 
 - Dr. Barbara Oakley ([twitter](https://twitter.com/barbaraoakley), [website]([https://barbaraoakley.com](https://barbaraoakley.com/)))
-- Dr. Terrence Sejnowski
+- Dr. Terrence Sejnowski (website)
+- Derek Sivers (twitter, website)
+- Nicky Case (twitter, website)
 
 ## Apps, Interactives
 
-- [How to remember anything forever-ish](https://ncase.me/remember/)
+- [How to remember anything forever-ish](https://ncase.me/remember/) by [Nicky Case](#people)
 
-## Communities
+## Forums, Group chats
 
 ## Q&A
 
