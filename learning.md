@@ -1,60 +1,67 @@
 # Learning
+
+- prerequisites: 
+- subtopics: spaced-repetition
+- curators: Nilesh
+
 ---
 
-- prerequisites: English
-- subtopics:
+## Apps
 
----
-
-## Courses
-- [Learning How To Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn/) by [Dr. Barbara Oakley](#people) & [Dr. Terrence Sejnowski](https://www.coursera.org/instructor/terry) @ [Coursera](https://www.coursera.org/) (12 hours; Beginner)
-- [Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential](https://www.coursera.org/learn/mindshift)
-
-## Code
-
-## Books
-- [The Art of Learning](https://www.goodreads.com/book/show/857333.The_Art_of_Learning) by Josh Watzkin
-- [Learning: A Very Short Introduction](https://www.goodreads.com/book/show/27310222-learning)
-- [How People Learn: Brain, Mind, Experience, and School](https://www.nap.edu/catalog/9853/how-people-learn-brain-mind-experience-and-school-expanded-edition) by NAP
-
-## Images
-
-## Videos, Documentaries & Films
-
-- [Learning How To Learn: TedX](https://www.youtube.com/watch?v=O96fE1E-rf8)
-- 
+- [Anki: Flash cards with spaced repetition](https://apps.ankiweb.net/)
 
 ## Articles
 
-- [There's No Speed Limit](https://sivers.org/kimo) by [Derek Sivers](#people)
+- [There's No Speed Limit](https://sivers.org/kimo) by [Derek Sivers](#people) (5 minutes)
 
 ## Audio, Podcasts
 
-## People
+## Blogs
 
-- Dr. Barbara Oakley ([twitter](https://twitter.com/barbaraoakley), [website]([https://barbaraoakley.com](https://barbaraoakley.com/)))
-- Dr. Terrence Sejnowski (website)
-- Derek Sivers (twitter, website)
-- Nicky Case (twitter, website)
+## Books
 
-## Apps, Interactives
+- [The Art of Learning](https://www.goodreads.com/book/show/857333.The_Art_of_Learning) by [Josh Watzkin](#people)
+- [Learning: A Very Short Introduction](https://www.goodreads.com/book/show/27310222-learning) by [Mark Haselgrove](#people)
+- [How People Learn: Brain, Mind, Experience, and School](https://www.nap.edu/catalog/9853/how-people-learn-brain-mind-experience-and-school-expanded-edition) by [National Academies Press](https://www.nap.edu)
 
-- [How to remember anything forever-ish](https://ncase.me/remember/) by [Nicky Case](#people)
+## Certifications & Assessment
+
+## Code
+
+## Conferences
+
+## Courses
+
+- [Learning How To Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn/) by [Dr. Barbara Oakley](#people) & [Dr. Terrence Sejnowski](https://www.coursera.org/instructor/terry) (12 hours; Beginner)
+- [Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential](https://www.coursera.org/learn/mindshift) by [Dr. Barbara Oakley](#people), [Dr. Terrence Sejnowski](https://www.coursera.org/instructor/terry) & M.S. Orlando Trejo (11 hours; Beginner)
 
 ## Forums, Group chats
+
+## Images
+
+## Interactives
+
+- [How to remember anything forever-ish](https://ncase.me/remember/) by [Nicky Case](#people) (20 minutes)
+
+## Livestreams
+
+## Meetups
+
+## Newsletters
+
+## People
+
+- Dr. Barbara Oakley: [twitter](https://twitter.com/barbaraoakley), [website](https://barbaraoakley.com/)
+- Dr. Terrence Sejnowski: [wiki](https://en.wikipedia.org/wiki/Terry_Sejnowski)
+- Derek Sivers: [twitter](https://apps.ankiweb.net/), [website](https://sivers.org/)
+- Nicky Case: [twitter](https://twitter.com/ncasenmare), [website](https://ncase.me/)
+- Josh Watzkin: [website](http://www.joshwaitzkin.com/), [wiki](https://en.wikipedia.org/wiki/Joshua_Waitzkin)
+- Mark Haselgrove: [twitter](https://twitter.com/MarkHaselgrove), [website](https://www.nottingham.ac.uk/psychology/people/mark.haselgrove)
 
 ## Q&A
 
 ## Research Papers
 
-## Meetups
+## Videos, Documentaries & Films
 
-## Conferences
-
-## Livestreams
-
-## Blogs
-
-## Newsletters
-
-## Certifications
+- [TedX: Learning How To Learn](https://www.youtube.com/watch?v=O96fE1E-rf8) by [Dr. Barbara Oakley](#people)

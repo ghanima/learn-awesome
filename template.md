@@ -1,46 +1,47 @@
 # Topic
 
-------
-
 - prerequisites:
 - subtopics:
+- curators:
 
 ------
-
-## Courses
-
-## Code
-
-## Books
-
-## Images
-
-## Videos
-
-## Articles
-
-## Audio / Podcasts
-
-## People
 
 ## Apps
 
+- [A sample link](https://example/) by [Author](#people)
+
+## Articles
+
+## Audio, Podcasts
+
+## Blogs
+
+## Books
+
+## Certifications & Assessment
+
+## Code
+
+## Conferences
+
+## Courses
+
+## Forums, Group chats
+
+## Images
+
 ## Interactives
 
-## Communities
+## Livestreams
+
+## Meetups
+
+## Newsletters
+
+## People
 
 ## Q&A
 
 ## Research Papers
 
-## Meetups
-
-## Conferences
-
-## Livestreams
-
-## Newsletters
-
-## Certifications
-
-## Blogs
+## Videos, Documentaries & Films
