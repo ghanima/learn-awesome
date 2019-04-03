@@ -1,8 +1,8 @@
 # Learning
 
-- prerequisites: 
-- subtopics: spaced-repetition
-- curators: Nilesh
+- prerequisites:
+- subtopics:
+- curators: nileshtrivedi
 
 ---
 
@@ -12,7 +12,7 @@
 
 ## Articles
 
-- [There's No Speed Limit](https://sivers.org/kimo) by [Derek Sivers](#people) (5 minutes)
+- [There's no speed limit](https://sivers.org/kimo) by [Derek Sivers](#people) (5 minutes)
 
 ## Audio, Podcasts
 
@@ -53,7 +53,7 @@
 
 - Dr. Barbara Oakley: [twitter](https://twitter.com/barbaraoakley), [website](https://barbaraoakley.com/)
 - Dr. Terrence Sejnowski: [wiki](https://en.wikipedia.org/wiki/Terry_Sejnowski)
-- Derek Sivers: [twitter](https://apps.ankiweb.net/), [website](https://sivers.org/)
+- Derek Sivers: [twitter](https://twitter.com/sivers/), [website](https://sivers.org/)
 - Nicky Case: [twitter](https://twitter.com/ncasenmare), [website](https://ncase.me/)
 - Josh Watzkin: [website](http://www.joshwaitzkin.com/), [wiki](https://en.wikipedia.org/wiki/Joshua_Waitzkin)
 - Mark Haselgrove: [twitter](https://twitter.com/MarkHaselgrove), [website](https://www.nottingham.ac.uk/psychology/people/mark.haselgrove)
