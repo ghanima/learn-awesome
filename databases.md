@@ -15,6 +15,8 @@
 ## Blogs
 
 ## Books
+- [📕 The data warehouse toolkit (1996)](http://www.goodreads.com/book/show/748203.The_Data_Warehouse_Toolkit)
+
 
 ## Certifications & Assessment
 
