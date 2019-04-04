@@ -14,6 +14,16 @@
 
 ## Blogs
 
+- [Domen Kozar](https://www.domenkozar.com)
+- [Existential Type](https://existentialtype.wordpress.com/)
+- [Keathley](http://keathley.io/)
+- [Robert Widmann](http://xn--wxak1a.com/blog/)
+- [Send More Paramedics](http://blog.fogus.me/)
+- [Stephen Diehl](http://www.stephendiehl.com/posts/protolude.html)
+- [Taktoa](http://taktoa.me/blog/)
+- [To Overcome](http://www.parsonsmatt.org/)
+
+
 ## Books
 
 ## Certifications & Assessment
