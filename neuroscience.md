@@ -16,6 +16,8 @@
 
 ## Books
 
+- [The Brain: A Very Short Introduction](http://www.veryshortintroductions.com/abstract/10.1093/actrade/9780192853929.001.0001/actrade-9780192853929?rskey=MLPnxI&result=88)
+
 ## Certifications & Assessment
 
 ## Code

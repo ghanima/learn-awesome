@@ -16,6 +16,8 @@
 
 ## Books
 
+- [Big Data: A Very Short Introduction](http://www.veryshortintroductions.com/abstract/10.1093/actrade/9780198779575.001.0001/actrade-9780198779575?rskey=MLPnxI&result=78)
+
 ## Certifications & Assessment
 
 ## Code

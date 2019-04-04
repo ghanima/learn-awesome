@@ -18,6 +18,12 @@
 
 ## Books
 
+- [Applied Mathematics: A Very Short Introduction](http://www.veryshortintroductions.com/abstract/10.1093/actrade/9780198754046.001.0001/actrade-9780198754046?rskey=MLPnxI&result=48)
+- [Mathematics: A Very Short Introduction](http://www.veryshortintroductions.com/abstract/10.1093/actrade/9780192853615.001.0001/actrade-9780192853615?rskey=rtROx3&result=366)
+- [Game Theory: A Very Short Introduction](http://www.veryshortintroductions.com/abstract/10.1093/actrade/9780199218462.001.0001/actrade-9780199218462?rskey=XaooWh&result=243)
+- [Numbers: A Very Short Introduction](http://www.veryshortintroductions.com/abstract/10.1093/actrade/9780199584055.001.0001/actrade-9780199584055?rskey=sBHDD5&result=431)
+- [Probability: A Very Short Introduction](http://www.veryshortintroductions.com/abstract/10.1093/actrade/9780199588480.001.0001/actrade-9780199588480?rskey=sBHDD5&result=473)
+
 ## Certifications & Assessment
 
 ## Code
@@ -47,6 +53,8 @@
 
 ## Interactives
 
+- [Mathigon](https://mathigon.org/)
+
 ## Journals
 
 - [arXiv](https://arxiv.org/)
@@ -65,6 +73,9 @@
 - Grant Sanderson (3Blue1Brown0): [twitter](https://twitter.com/3blue1brown), [website](https://www.3blue1brown.com/), [wiki](https://en.wikipedia.org/wiki/3Blue1Brown)
 
 ## Q&A
+
+- [Math StackExchange](https://math.stackexchange.com/)
+- [MathOverflow](https://mathoverflow.net/)
 
 ## Research Papers
 

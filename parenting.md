@@ -32,6 +32,8 @@
 
 ## Interactives
 
+## Journals
+
 ## Learning Plans
 
 ## Livestreams
@@ -43,6 +45,8 @@
 ## People
 
 ## Q&A
+
+## Quotes
 
 ## Research Papers
 

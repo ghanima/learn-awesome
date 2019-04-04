@@ -19,6 +19,7 @@
 ## Books
 
 - [The Feynman Lectures](http://www.feynmanlectures.caltech.edu/)
+- [Quantum Theory: A Very Short Introduction](http://www.veryshortintroductions.com/abstract/10.1093/actrade/9780192802521.001.0001/actrade-9780192802521?rskey=sBHDD5&result=486)
 
 ## Certifications & Assessment
 

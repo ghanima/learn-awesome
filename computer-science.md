@@ -16,6 +16,7 @@
 - [The Morning Paper](https://blog.acolyer.org/)
 
 ## Books
+- [Computer Science: A Very Short Introduction](http://www.veryshortintroductions.com/abstract/10.1093/actrade/9780198733461.001.0001/actrade-9780198733461?rskey=VSxM2T&result=136)
 - [📕 The new Turing Omnibus (1989)](http://www.goodreads.com/book/show/964709.The_New_Turing_Omnibus)
 - [📖 Purely functional data structures (1996)](https://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)
 - [📕 Introduction to the theory of computation (1996)](http://www.goodreads.com/book/show/400716.Introduction_to_the_Theory_of_Computation)

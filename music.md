@@ -1,4 +1,4 @@
-# Photography
+# Music
 
 - prerequisites:
 - subtopics:
@@ -16,7 +16,7 @@
 
 ## Books
 
-- [Photography: A Very Short Introduction](http://www.veryshortintroductions.com/abstract/10.1093/actrade/9780192801647.001.0001/actrade-9780192801647?rskey=sBHDD5&result=455)
+- [Music: A Very Short Introduction](http://www.veryshortintroductions.com/abstract/10.1093/actrade/9780192853820.001.0001/actrade-9780192853820?rskey=sBHDD5&result=409)
 
 ## Certifications & Assessment
 
@@ -34,6 +34,8 @@
 
 ## Interactives
 
+## Journals
+
 ## Learning Plans
 
 ## Livestreams
@@ -45,6 +47,8 @@
 ## People
 
 ## Q&A
+
+## Quotes
 
 ## Research Papers
 

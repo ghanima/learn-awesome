@@ -2,7 +2,7 @@
 
 In this repo, we curate lists of awesome learning resources on various topics categorized by formats like articles, books, courses, podcasts, games, study plans etc.
 
-We have collected links for [living](living.md), [learning](learning.md), [thinking](thinking.md), [communicating](communicating.md), [health](health.md), [wealth](wealth.md), [relationships](relationships.md), [parenting](parenting.md) etc.
+We have collected links for [life](life.md), [learning](learning.md), [thinking](thinking.md), [communicating](communicating.md), [health](health.md), [wealth](wealth.md), [relationships](relationships.md), [parenting](parenting.md) etc.
 
 We also have [math](math.md), [abstract algebra](abstract-algebra.md), [science](science.md), [physics](physics.md), [chemistry](chemistry.md) & [biology](biology.md) among others.
 

@@ -19,8 +19,9 @@
 - [Rylan Schaeffer](http://rylanschaeffer.github.io/content/research.html)
 - [The BAIR Blog](http://bair.berkeley.edu/blog/about/)
 
-
 ## Books
+
+- [Artificial Intelligence: A Very Short Introduction](http://www.veryshortintroductions.com/abstract/10.1093/actrade/9780199602919.001.0001/actrade-9780199602919?rskey=MLPnxI&result=56)
 
 ## Certifications & Assessment
 
