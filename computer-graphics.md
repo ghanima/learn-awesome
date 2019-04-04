@@ -14,6 +14,7 @@
 ## Audio, Podcasts
 
 ## Blogs
+- [0 FPS](https://0fps.net/)
 
 ## Books
 - [📖 The book of shaders (2017)](http://thebookofshaders.com)
