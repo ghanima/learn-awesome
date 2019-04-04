@@ -13,6 +13,8 @@
 ## Audio, Podcasts
 
 ## Blogs
+- [Bits of DNA](https://liorpachter.wordpress.com/) - Reviews and commentary on computational biology by Lior Pachter.
+
 
 ## Books
 - [📕 Molecular Biology of the Cell (1983)](https://www.goodreads.com/book/show/13400.Molecular_Biology_of_the_Cell)
