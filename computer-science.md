@@ -61,3 +61,5 @@
 ## Videos, Documentaries & Films
 
 ## Wiki
+- [Main Wikipedia](https://en.wikipedia.org/wiki/Computer_science)
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Computer_science)
