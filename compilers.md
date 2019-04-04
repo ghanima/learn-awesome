@@ -53,4 +53,4 @@
 
 ## Wiki
 - [Main Wikipedia](https://en.wikipedia.org/wiki/Compiler)
-- [Sinple Wikipedia](https://simple.wikipedia.org/wiki/Compiler)
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Compiler)
