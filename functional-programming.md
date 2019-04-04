@@ -26,6 +26,10 @@
 
 ## Books
 
+- [📕 Pearls of Functional Algorithm Design (2010)](https://www.goodreads.com/book/show/8693802-pearls-of-functional-algorithm-design)
+- [📖 Mostly adequate guide to FP (in JavaScript)](https://drboolean.gitbooks.io/mostly-adequate-guide-old/content/)
+
+
 ## Certifications & Assessment
 
 ## Code
