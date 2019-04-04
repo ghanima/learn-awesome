@@ -54,3 +54,5 @@
 ## Videos, Documentaries & Films
 
 ## Wiki
+- [Main Wikipedia](https://en.wikipedia.org/wiki/Operating_system)
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Operating_system)
