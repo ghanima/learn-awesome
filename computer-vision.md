@@ -55,3 +55,5 @@
 ## Videos, Documentaries & Films
 
 ## Wiki
+- [Main Wikipedia](https://en.wikipedia.org/wiki/Computer_vision)
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Computer_vision)
