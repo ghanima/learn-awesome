@@ -53,5 +53,5 @@
 ## Videos, Documentaries & Films
 
 ## Wiki
-- [Main Wikipedia] (https://en.wikipedia.org/wiki/Artificial_intelligence)
-- [Simple Wikipedia] (https://simple.wikipedia.org/wiki/Artificial_intelligence)
+- [Main Wikipedia](https://en.wikipedia.org/wiki/Artificial_intelligence)
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Artificial_intelligence)
