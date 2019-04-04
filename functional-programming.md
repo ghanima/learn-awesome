@@ -12,6 +12,9 @@
 
 ## Audio, Podcasts
 
+- [Hansel minutes](https://hanselminutes.com/)
+
+
 ## Blogs
 
 - [Domen Kozar](https://www.domenkozar.com)
