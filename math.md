@@ -47,6 +47,11 @@
 
 ## Interactives
 
+## Journals
+
+- [arXiv](https://arxiv.org/)
+- [arXiv sanity preserver](http://www.arxiv-sanity.com/)
+
 ## Learning Plans
 
 ## Livestreams
@@ -62,6 +67,26 @@
 ## Q&A
 
 ## Research Papers
+
+- [Polynomial exact-3-sat solving algorithm](http://vixra.org/pdf/1212.0109v1.pdf)
+- [The language and grammar of mathematics](http://press.princeton.edu/chapters/gowers/gowers_I_2.pdf)
+- [Comprehending Monads](https://ncatlab.org/nlab/files/WadlerMonads.pdf)
+- [Notation as a tool of thought](http://www.jsoftware.com/papers/tot.htm)
+- [A Mathematical Theory of Communication](http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
+- [Graph isomorphism in quasipolynomial time](https://arxiv.org/abs/1512.03547)
+- [On proof and progress in mathematics](https://arxiv.org/pdf/math/9404236v1.pdf)
+- [Introduction to categories and categorical logic](https://arxiv.org/abs/1102.1313)
+- [A notion of a computational step for partial combinatory algebras](http://math.mit.edu/~freer/papers/AF-stepalg.pdf)
+- [Reading mathematics](http://www.math.cornell.edu/~hubbard/readingmath.pdf)
+- [Quotients homophones des groupes libres homophonic quotients of free groups](http://people.mpim-bonn.mpg.de/zagier/files/exp-math-2/fulltext.pdf)
+- [A beginner’s guide to forcing](https://arxiv.org/pdf/0712.1320.pdf)
+- [A lagrangian dual approach to the generalized kyp lemma](https://pdfs.semanticscholar.org/acdc/f72a08e4847f4e0ab2e7cf0d58bd4d8ded92.pdf)
+- [What is good mathematics? (2007)](https://arxiv.org/abs/math/0702396)
+- [On the dimensionality of spacetime](https://arxiv.org/pdf/gr-qc/9702052.pdf)
+- [A cohomological viewpoint on elementary school arithmetic](http://www.math.wayne.edu/~isaksen/Expository/carrying.pdf)
+- [Beta reduction is invariant, indeed](https://arxiv.org/abs/1601.01233)
+- [Sketch of a Programme](http://matematicas.unex.es/%7Enavarro/res/esquisseeng.pdf)
+- [A naturalist account of the limited, and hence reasonable, effectiveness of mathematics in physics (2015)](https://arxiv.org/abs/1506.03733)
 
 ## Videos, Documentaries & Films
 

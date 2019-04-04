@@ -67,6 +67,18 @@
 
 ## Research Papers
 
+- [AutoAugment: Learning Augmentation Policies from Data (2018)](https://arxiv.org/abs/1805.09501)
+- [Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm (2017)](https://arxiv.org/abs/1712.01815)
+- [Neural Machine Translation and Sequence-to-sequence Models: A Tutorial (2017)](https://arxiv.org/abs/1703.01619)
+- [Deep voice: real-time neural text-to-speech (2017)](https://arxiv.org/pdf/1702.07825.pdf)
+- [Dropout: a simple way to prevent neural networks from overfitting (2014)](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf)
+- [A Unifying Review of Linear Gaussian Models (1998)](http://mlg.eng.cam.ac.uk/zoubin/papers/lds.pdf)
+- [Gaussian processes for big data](http://auai.org/uai2013/prints/papers/244.pdf)
+- [Adversarial Patch](https://arxiv.org/pdf/1712.09665.pdf)
+- [A few useful things to know about machine learning](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
+- [The high-interest credit card of technical debt](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf)
+- [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](https://arxiv.org/pdf/1606.03657.pdf)
+
 ## Videos, Documentaries & Films
 
 ## Wiki

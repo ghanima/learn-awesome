@@ -62,6 +62,8 @@
 
 ## Research Papers
 
+- [Tor: The Second-Generation Onion Router](https://svn.torproject.org/svn/projects/design-paper/tor-design.pdf)
+
 ## Videos, Documentaries & Films
 
 ## Wiki

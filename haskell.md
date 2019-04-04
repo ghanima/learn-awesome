@@ -51,6 +51,8 @@
 
 ## Research Papers
 
+- [Linear-Time Suffix Array Implementation in Haskell (2014)](http://www.scs.stanford.edu/14sp-cs240h/projects/isaacs_geiduscheck.pdf)
+
 ## Videos, Documentaries & Films
 
 ## Wiki

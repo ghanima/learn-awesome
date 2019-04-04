@@ -57,6 +57,11 @@
 
 ## Research Papers
 
+- [Evolution strategies as a scalable alternative to reinforcement learning (2017)](https://arxiv.org/abs/1703.03864)
+- [Awesome deep learning papers](https://github.com/endymecy/awesome-deeplearning-resources#readme)
+- [Summaries and notes on deep learning research papers](https://github.com/dennybritz/deeplearning-papernotes#readme)
+- [Google Brain Team](https://research.google.com/teams/brain)
+
 ## Videos, Documentaries & Films
 
 ## Wiki

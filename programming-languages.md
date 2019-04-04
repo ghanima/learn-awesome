@@ -1,4 +1,4 @@
-# Biology
+# Programming Languages
 
 - prerequisites:
 - subtopics:
@@ -13,13 +13,8 @@
 ## Audio, Podcasts
 
 ## Blogs
-- [Bits of DNA](https://liorpachter.wordpress.com/) - Reviews and commentary on computational biology by Lior Pachter.
-
 
 ## Books
-- [📕 Molecular Biology of the Cell (1983)](https://www.goodreads.com/book/show/13400.Molecular_Biology_of_the_Cell)
-- [📕 Rang & Dale's Pharmacology (1987)](https://www.goodreads.com/book/show/380577.Rang_Dale_s_Pharmacology)
-
 
 ## Certifications & Assessment
 
@@ -39,8 +34,6 @@
 
 ## Journals
 
-- [PLOS](https://www.plos.org)
-
 ## Learning Plans
 
 ## Livestreams
@@ -53,7 +46,11 @@
 
 ## Q&A
 
+## Quotes
+
 ## Research Papers
+
+- [Using closures for code generation](http://www.iro.umontreal.ca/%7Efeeley/papers/FeeleyLapalmeCL87.pdf)
 
 ## Videos, Documentaries & Films
 

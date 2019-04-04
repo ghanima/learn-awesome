@@ -56,6 +56,11 @@
 
 ## Research Papers
 
+- [Winner-take-all autoencoders](https://arxiv.org/pdf/1409.2752.pdf)
+- [A roadmap towards machine intelligence](https://arxiv.org/pdf/1511.08130.pdf)
+- [Is the brain a good model for machine intelligence?](http://www.gatsby.ucl.ac.uk/%7Edemis/TuringSpecialIssue%28Nature2012%29.pdf)
+- [Concrete problems in ai safety](https://arxiv.org/pdf/1606.06565.pdf)
+
 ## Videos, Documentaries & Films
 
 ## Wiki

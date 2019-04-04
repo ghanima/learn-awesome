@@ -1,4 +1,4 @@
-# Biology
+# Psychedelics
 
 - prerequisites:
 - subtopics:
@@ -13,13 +13,8 @@
 ## Audio, Podcasts
 
 ## Blogs
-- [Bits of DNA](https://liorpachter.wordpress.com/) - Reviews and commentary on computational biology by Lior Pachter.
-
 
 ## Books
-- [📕 Molecular Biology of the Cell (1983)](https://www.goodreads.com/book/show/13400.Molecular_Biology_of_the_Cell)
-- [📕 Rang & Dale's Pharmacology (1987)](https://www.goodreads.com/book/show/380577.Rang_Dale_s_Pharmacology)
-
 
 ## Certifications & Assessment
 
@@ -39,8 +34,6 @@
 
 ## Journals
 
-- [PLOS](https://www.plos.org)
-
 ## Learning Plans
 
 ## Livestreams
@@ -53,7 +46,12 @@
 
 ## Q&A
 
+## Quotes
+
 ## Research Papers
+
+- [Crystal structure of an lsd-bound human serotonin receptor](http://www.cell.com/cell/fulltext/S0092-8674%2816%2931749-4)
+- [Towards a biophysical understanding of hallucinogen action (2007)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.688.8514&rep=rep1&type=pdf)
 
 ## Videos, Documentaries & Films
 

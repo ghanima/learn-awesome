@@ -51,6 +51,9 @@
 
 ## Research Papers
 
+- [NixOS: A purely Functional Linux Distribution (2010)](https://nixos.org/%7Eeelco/pubs/nixos-jfp-final.pdf)
+- [Urbit: A Solid-State Interpreter (2016)](http://media.urbit.org/whitepaper.pdf)
+
 ## Videos, Documentaries & Films
 
 ## Wiki
