@@ -1,18 +1,20 @@
 # learn-awesome
 
-In this repo, we curate lists of awesome learning resources on various topics categorized by formats.
+In this repo, we curate lists of awesome learning resources on various topics categorized by formats like articles, books, courses, podcasts, games, study plans etc.
 
 We have collected links for [living](living.md), [learning](learning.md), [thinking](thinking.md), [communicating](communicating.md), [health](health.md), [wealth](wealth.md) & [relationships](relationships.md)
 
-We also have [math](math.md), [abstract algebra](abstract-algebra.md), [science](science.md), [physics](physics.md) & [biology](biology.md).
+We also have [math](math.md), [abstract algebra](abstract-algebra.md), [science](science.md), [physics](physics.md), [chemistry](chemistry.md) & [biology](biology.md).
 
-A lot of our current users are programmers. And so we have: [algorithms](algorithms.md), [artificial intelligence](artificial-intelligence.md), [compilers](compilers.md), [computer science](computer-science.md), [computer-security](computer-security.md), [computer vision](computer-vision.md), [cryptocurrency](cryptocurrency.md), [cryptography](cryptography.md), [deep learning](deep-learning.md), [machine learning](machine-learning.md), and [programming](programming.md).
+A lot of our current users are programmers. And so we have: [algorithms](algorithms.md), [artificial intelligence](artificial-intelligence.md), [compilers](compilers.md), [computer science](computer-science.md), [computer security](computer-security.md), [computer vision](computer-vision.md), [cryptocurrency](cryptocurrency.md), [cryptography](cryptography.md), [deep learning](deep-learning.md), [machine learning](machine-learning.md), and [programming](programming.md).
 
 For hobbies, we currently have [magic](magic.md) & [music](music.md).
 
 You should join us to expand and improve our collection! Use this [template](template.md) to create a page for a new topic and send us a pull request. :-)
 
 ---
+
+## What is learn-awesome?
 
 With the explosion of information available on the Internet, it has become difficult to find the best learning resources on any topic. Some really amazing things are available on the Web, but learning platforms are typically tied to a single format and want to keep you within their site/app. In other words, learning apps are not actually learner-centric. For any given topic (say, machine learning), it should be easy to find best courses, best podcasts, best books, best articles, best Q&A sites, best chat groups, best people to follow, the best research papers, best interactive exercises/playgrounds and so on.
 
