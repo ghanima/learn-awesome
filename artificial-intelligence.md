@@ -13,6 +13,12 @@
 ## Audio, Podcasts
 
 ## Blogs
+- [Adam Paszke](http://apaszke.github.io/posts.html)
+- [AI Roadmap Institute](https://medium.com/@AIroadmap)
+- [Ritchie Ng](http://www.ritchieng.com/news/)
+- [Rylan Schaeffer](http://rylanschaeffer.github.io/content/research.html)
+- [The BAIR Blog](http://bair.berkeley.edu/blog/about/)
+
 
 ## Books
 
