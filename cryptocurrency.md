@@ -15,6 +15,8 @@
 ## Blogs
 
 ## Books
+- [📖 Mastering Ethereum (2018)](https://github.com/ethereumbook/ethereumbook)
+
 
 ## Certifications & Assessment
 
