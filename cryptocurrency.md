@@ -51,3 +51,5 @@
 ## Videos, Documentaries & Films
 
 ## Wiki
+- [Main Wikipedia](https://en.wikipedia.org/wiki/Cryptocurrency)
+- [Simple Wikiepedia](https://simple.wikipedia.org/wiki/Cryptocurrency)
