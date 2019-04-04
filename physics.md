@@ -1,4 +1,4 @@
-# Wealth
+# Physics
 
 - prerequisites:
 - subtopics:
@@ -8,6 +8,8 @@
 
 ## Apps
 
+- [Algodoo](http://www.algodoo.com/)
+
 ## Articles
 
 ## Audio, Podcasts
@@ -16,6 +18,8 @@
 
 ## Books
 
+- [The Feynman Lectures](http://www.feynmanlectures.caltech.edu/)
+
 ## Certifications & Assessment
 
 ## Code
@@ -23,8 +27,6 @@
 ## Conferences
 
 ## Courses
-
-- [Computational investing](https://www.coursera.org/learn/computational-investing) 💰
 
 ## Forums, Group chats
 

@@ -53,10 +53,15 @@
 
 ## People
 
+- Grant Sanderson (3Blue1Brown0): [twitter](https://twitter.com/3blue1brown), [website](https://www.3blue1brown.com/), [wiki](https://en.wikipedia.org/wiki/3Blue1Brown)
+
 ## Q&A
 
 ## Research Papers
 
 ## Videos, Documentaries & Films
+
+- [The Map of Mathematics](https://www.youtube.com/watch?v=OmJ-4B-mS-Y&t=271s)
+- [3Blue1Brown YouTube](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 
 ## Wiki

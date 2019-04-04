@@ -1,4 +1,4 @@
-# Living
+# Biology
 
 - prerequisites:
 - subtopics:
@@ -10,16 +10,11 @@
 
 ## Articles
 
-- [Make Your Own Rules](https://www.ribbonfarm.com/2018/02/15/make-your-own-rules/) by [Venkatesh Rao](#people)
-
 ## Audio, Podcasts
 
 ## Blogs
 
 ## Books
-
-- [All I Really Needed to Know, I Learned in Kindergarten (1987)](https://en.wikipedia.org/wiki/All_I_Really_Need_to_Know_I_Learned_in_Kindergarten)
-- [The 7 Habits of Highly Effective People](https://en.wikipedia.org/wiki/The_7_Habits_of_Highly_Effective_People)
 
 ## Certifications & Assessment
 
