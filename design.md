@@ -12,7 +12,10 @@
 
 ## Audio, Podcasts
 
+- [Design Details](https://overcast.fm/itunes947191070/design-details) - Weekly conversation about design process and culture.
+
 ## Blogs
+
 - [Domain Driven Design](http://dddweekly.com/)
 - [Frank Chimero](https://frankchimero.com/blog/)
 - [Nicole Harris](http://whoisnicoleharris.com/#writing)
