@@ -70,3 +70,5 @@
 ## Videos, Documentaries & Films
 
 ## Wiki
+- [Main Wikipedia](https://en.wikipedia.org/wiki/Machine_learning)
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Machine_learning)
