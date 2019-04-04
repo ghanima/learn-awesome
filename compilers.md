@@ -13,6 +13,8 @@
 ## Audio, Podcasts
 
 ## Blogs
+- [Vyacheslav Egorov](https://mrale.ph/)
+
 
 ## Books
 - [📕 Compilers: Principles, Techniques, and Tools (1986)](https://www.goodreads.com/book/show/703102.Compilers)
