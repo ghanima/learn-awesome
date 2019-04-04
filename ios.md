@@ -14,6 +14,11 @@
 
 ## Blogs
 
+- [Benjamin Mayo](http://benjaminmayo.co.uk/archive)
+- [CALayer](http://calayer.com/)
+- [Leo Jweda](https://www.leojweda.com/)
+- [Luke Zhao](http://lkzhao.com/)
+
 ## Books
 
 ## Certifications & Assessment
