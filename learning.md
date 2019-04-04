@@ -69,3 +69,6 @@
 - [TedX: Learning How To Learn](https://www.youtube.com/watch?v=O96fE1E-rf8) by [Dr. Barbara Oakley](#people)
 
 ## Wiki
+
+- [Main Wikipedia](https://en.wikipedia.org/wiki/Learning)
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Learning)

@@ -56,3 +56,6 @@
 - [YouTube Lecture Series](https://www.youtube.com/watch?v=IP7nW_hKB7I&list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6) by [Socratica](https://www.youtube.com/channel/UCW6TXMZ5Pq6yL6_k5NZ2e0Q)
 
 ## Wiki
+
+- [Main Wikipedia](https://en.wikipedia.org/wiki/Abstract_algebra)
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Abstract_algebra)
