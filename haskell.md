@@ -14,6 +14,14 @@
 
 ## Blogs
 
+- [FPcomplete](https://www.fpcomplete.com/)
+- [Joy of Haskell](https://joyofhaskell.com/blog.html)
+- [Nikita Volkov](http://nikita-volkov.github.io/)
+- [Reasonably Polymorphic](http://reasonablypolymorphic.com/blog/archives/)
+- [RUHaskell (Russian)](https://ruhaskell.org/)
+- [Vincent Hanquez](http://tab.snarc.org/)
+
+
 ## Books
 
 ## Certifications & Assessment
