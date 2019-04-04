@@ -16,6 +16,9 @@
 
 ## Books
 
+- [📕 The richest man in babylon (1926)](http://www.goodreads.com/book/show/1052.The_Richest_Man_in_Babylon)
+- [📕 Rich dad poor dad (1997)](http://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad)
+
 ## Certifications & Assessment
 
 ## Code
