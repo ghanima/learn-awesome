@@ -62,3 +62,5 @@
 ## Videos, Documentaries & Films
 
 ## Wiki
+- [Main Wikipedia](https://en.wikipedia.org/wiki/Computer_programming)
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Computer_programming)
