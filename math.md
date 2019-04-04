@@ -38,6 +38,8 @@
 ## Forums, Group chats
 
 ## Games
+- [ProdigyGame](https://www.prodigygame.com/) For class 1 to 8, Maths questions in between the video game.
+- [NRICH](https://nrich.maths.org/) Rich in maths games, activities, news and mathematical thinking for different level student
 
 ## Images
 
