@@ -51,3 +51,5 @@
 ## Videos, Documentaries & Films
 
 ## Wiki
+- [Main Wikipedia](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Cascading_Style_Sheets)

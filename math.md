@@ -65,3 +65,5 @@
 - [3Blue1Brown YouTube](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 
 ## Wiki
+- [Main Wikipedia](https://en.wikipedia.org/wiki/Mathematics)
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Mathematics)

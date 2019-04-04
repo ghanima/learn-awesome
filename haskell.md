@@ -54,3 +54,5 @@
 ## Videos, Documentaries & Films
 
 ## Wiki
+- [Main Wikipedia](https://en.wikipedia.org/wiki/Haskell_(programming_language))
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Haskell_(programming_language))

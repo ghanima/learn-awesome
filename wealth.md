@@ -51,3 +51,5 @@
 ## Videos, Documentaries & Films
 
 ## Wiki
+- [Main Wikipedia](https://en.wikipedia.org/wiki/Wealth)
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Wealth)
