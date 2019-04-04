@@ -53,3 +53,5 @@
 - [The Magic of Chemistry](https://www.youtube.com/watch?v=0g8lANs6zpQ) by Andrew Szydlo @ The Royal Institution
 
 ## Wiki
+- [Main Wikipedia](https://en.wikipedia.org/wiki/Chemistry)
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Chemistry)
