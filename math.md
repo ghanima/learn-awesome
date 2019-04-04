@@ -8,6 +8,8 @@
 
 ## Apps
 
+- [MathPix](https://mathpix.com/)
+
 ## Articles
 
 ## Audio, Podcasts
