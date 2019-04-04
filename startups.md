@@ -1,4 +1,4 @@
-# C++
+# Startups
 
 - prerequisites:
 - subtopics:
@@ -13,9 +13,6 @@
 ## Audio, Podcasts
 
 ## Blogs
-
-- [Kevin Dungs](https://dun.gs/)
-- [Victor Zverovich](http://zverovich.net/)
 
 ## Books
 
@@ -35,6 +32,8 @@
 
 ## Interactives
 
+## Journals
+
 ## Learning Plans
 
 ## Livestreams
@@ -46,6 +45,8 @@
 ## People
 
 ## Q&A
+
+## Quotes
 
 ## Research Papers
 

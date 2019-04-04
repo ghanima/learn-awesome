@@ -12,9 +12,13 @@
 
 ## Audio, Podcasts
 
+- [The Talking Machines](https://www.thetalkingmachines.com/)
+
 ## Blogs
 
 ## Books
+
+- [The Elements of Statistical Learning](http://web.stanford.edu/~hastie/ElemStatLearn/)
 
 ## Certifications & Assessment
 

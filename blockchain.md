@@ -1,4 +1,5 @@
 # Blockchain
+
 - prerequisites:
 - subtopics:
 - curators:
@@ -7,15 +8,13 @@
 
 ## Apps
 
-
-
 ## Articles
 
 ## Audio, Podcasts
 
 ## Blogs
-- [Karl Tech](https://karl.tech/)
 
+- [Karl Tech](https://karl.tech/)
 
 ## Books
 
