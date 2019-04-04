@@ -15,6 +15,11 @@
 ## Blogs
 
 ## Books
+- [📕 Compilers: Principles, Techniques, and Tools (1986)](https://www.goodreads.com/book/show/703102.Compilers)
+- [📖 Compiler Construction by Niklaus Wirth (1996)](http://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf)
+- [📕 Modern Compiler Implementation in ML (1997)](https://www.goodreads.com/book/show/258558.Modern_Compiler_Implementation_in_ML)
+- [📕 Advanced Compiler Design and Implementation (1997)](http://www.goodreads.com/book/show/887908.Advanced_Compiler_Design_and_Implementation)
+
 
 ## Certifications & Assessment
 
