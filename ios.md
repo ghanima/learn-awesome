@@ -1,4 +1,4 @@
-# Gamification
+# iOS
 
 - prerequisites:
 - subtopics:
@@ -24,7 +24,7 @@
 
 ## Courses
 
-- [Gamification](https://www.coursera.org/learn/gamification) 💰
+- [Developing iOS 10 apps with Swift (2017)](https://itunes.apple.com/us/course/developing-ios-10-apps-with-swift/id1198467120) 🆓
 
 ## Forums, Group chats
 

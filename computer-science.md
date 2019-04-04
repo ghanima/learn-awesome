@@ -24,7 +24,6 @@
 
 ## Courses
 
-
 - [Computational complexity (2008)](https://people.eecs.berkeley.edu/~luca/cs278-08/) 🆓
 - [Computer science 101](https://lagunita.stanford.edu/courses/Engineering/CS101/Summer2014/about) 🆓
 - [Data structures](https://www.coursera.org/learn/data-structures) 💰
@@ -39,9 +38,13 @@
 
 ## Forums, Group chats
 
+## Games
+
 ## Images
 
 ## Interactives
+
+## Learning Plans
 
 ## Livestreams
 
@@ -56,3 +59,5 @@
 ## Research Papers
 
 ## Videos, Documentaries & Films
+
+## Wiki

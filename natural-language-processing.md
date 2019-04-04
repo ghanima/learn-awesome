@@ -1,4 +1,4 @@
-# Gamification
+# Natural Language Processing
 
 - prerequisites:
 - subtopics:
@@ -24,7 +24,7 @@
 
 ## Courses
 
-- [Gamification](https://www.coursera.org/learn/gamification) 💰
+- [YSDA Natural Language Processing course (2018)](https://github.com/yandexdataschool/nlp_course) 🆓- [The Human Brain (2018)](https://nancysbraintalks.mit.edu/course/9-11-the-human-brain) 🆓
 
 ## Forums, Group chats
 

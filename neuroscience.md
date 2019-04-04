@@ -1,4 +1,4 @@
-# Gamification
+# Neuroscience
 
 - prerequisites:
 - subtopics:
@@ -24,7 +24,7 @@
 
 ## Courses
 
-- [Gamification](https://www.coursera.org/learn/gamification) 💰
+- [The Human Brain (2018)](https://nancysbraintalks.mit.edu/course/9-11-the-human-brain) 🆓
 
 ## Forums, Group chats
 

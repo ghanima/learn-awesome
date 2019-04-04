@@ -1,4 +1,4 @@
-# Gamification
+# Chemistry
 
 - prerequisites:
 - subtopics:
@@ -24,7 +24,7 @@
 
 ## Courses
 
-- [Gamification](https://www.coursera.org/learn/gamification) 💰
+- [Bioinformatics specialization](https://www.coursera.org/specializations/bioinformatics) 💰
 
 ## Forums, Group chats
 
@@ -49,5 +49,7 @@
 ## Research Papers
 
 ## Videos, Documentaries & Films
+
+- [The Magic of Chemistry](https://www.youtube.com/watch?v=0g8lANs6zpQ) by Andrew Szydlo @ The Royal Institution
 
 ## Wiki

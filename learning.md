@@ -37,6 +37,8 @@
 
 ## Forums, Group chats
 
+## Games
+
 ## Images
 
 ## Interactives
@@ -65,3 +67,5 @@
 ## Videos, Documentaries & Films
 
 - [TedX: Learning How To Learn](https://www.youtube.com/watch?v=O96fE1E-rf8) by [Dr. Barbara Oakley](#people)
+
+## Wiki

@@ -1,4 +1,4 @@
-# Gamification
+# Game Development
 
 - prerequisites:
 - subtopics:
@@ -24,7 +24,7 @@
 
 ## Courses
 
-- [Gamification](https://www.coursera.org/learn/gamification) 💰
+- [HTML5 game development](https://www.udacity.com/course/html5-game-development--cs255) 🆓
 
 ## Forums, Group chats
 

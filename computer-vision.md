@@ -32,9 +32,13 @@
 
 ## Forums, Group chats
 
+## Games
+
 ## Images
 
 ## Interactives
+
+## Learning Plans
 
 ## Livestreams
 
@@ -49,3 +53,5 @@
 ## Research Papers
 
 ## Videos, Documentaries & Films
+
+## Wiki

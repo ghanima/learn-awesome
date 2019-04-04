@@ -1,4 +1,4 @@
-# Gamification
+# CSS
 
 - prerequisites:
 - subtopics:
@@ -24,7 +24,7 @@
 
 ## Courses
 
-- [Gamification](https://www.coursera.org/learn/gamification) 💰
+- [CSS Grid by Wes Bos](https://github.com/wesbos/css-grid) 🆓
 
 ## Forums, Group chats
 

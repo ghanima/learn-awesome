@@ -1,4 +1,4 @@
-# Gamification
+# Computer Networking
 
 - prerequisites:
 - subtopics:
@@ -24,7 +24,8 @@
 
 ## Courses
 
-- [Gamification](https://www.coursera.org/learn/gamification) 💰
+- [Introduction to computer networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about) 🆓
+- [Introduction to EECS II: digital communication systems (2012)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/index.htm) 🆓
 
 ## Forums, Group chats
 

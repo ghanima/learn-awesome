@@ -1,4 +1,4 @@
-# Gamification
+# Decentralized Systems
 
 - prerequisites:
 - subtopics:
@@ -24,7 +24,7 @@
 
 ## Courses
 
-- [Gamification](https://www.coursera.org/learn/gamification) 💰
+- [MIT Decentralized Applications (2018)](http://nil.lcs.mit.edu/6.S974/papers.html) 🆓
 
 ## Forums, Group chats
 

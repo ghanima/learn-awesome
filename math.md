@@ -33,12 +33,17 @@
 - [Nonlinear dynamics and chaos (2014)](https://www.youtube.com/playlist?list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V) 🆓
 - [Stanford mathematical foundations of computing (2016)](http://web.stanford.edu/class/cs103/) 🆓
 - [Types, Logic, and Verification (2013)](https://www.fcs.uoregon.edu/research/summerschool/summer13/curriculum.html)
+- [Discrete Mathematics and Probability Theory](http://www-inst.eecs.berkeley.edu/%7Ecs70/archives.html) 🆓
 
 ## Forums, Group chats
+
+## Games
 
 ## Images
 
 ## Interactives
+
+## Learning Plans
 
 ## Livestreams
 
@@ -53,3 +58,5 @@
 ## Research Papers
 
 ## Videos, Documentaries & Films
+
+## Wiki
