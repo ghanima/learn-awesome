@@ -12,9 +12,17 @@
 
 ## Audio, Podcasts
 
+- [Blockchain Insider](http://bi.11fs.com/)
+- [Crypto Voices](https://cryptovoices.com/)
+- [Cryptoverse](https://player.fm/series/the-cryptoverse)
+- [Epicenter](https://epicenter.tv/)
+- [Tales from the crypt](https://talesfromthecrypt.libsyn.com/)
+- [Unchained](http://unchainedpodcast.co/)
+
 ## Blogs
 
 ## Books
+
 - [📖 Mastering Ethereum (2018)](https://github.com/ethereumbook/ethereumbook)
 
 
