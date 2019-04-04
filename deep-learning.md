@@ -60,3 +60,5 @@
 ## Videos, Documentaries & Films
 
 ## Wiki
+- [Main Wikipedia](https://en.wikipedia.org/wiki/Deep_learning)
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Deep_learning)
