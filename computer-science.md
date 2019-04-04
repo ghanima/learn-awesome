@@ -29,6 +29,11 @@
 - [📕 The nature of computation (2011)](http://www.nature-of-computation.org/)
 - [📖 Software foundations (2011)](https://softwarefoundations.cis.upenn.edu/current/index.html)
 - [📖 Introduction to data compression (2012)](<https://github.com/gabrieldiego/tg/blob/master/ref/Introduction%20to%20Data%20Compression%20(4th%20Edition).pdf>)
+- [📖 NASA System Engineering (2007)](https://www.nasa.gov/sites/default/files/atoms/files/nasa_systems_engineering_handbook.pdf)
+- [📖 Distributed systems (2013)](http://book.mixu.net/distsys/)
+- [📕 General Systems Thinking (2015)](https://www.goodreads.com/book/show/583766.An_Introduction_to_General_Systems_Thinking)
+- [📕 Computer systems: a programmer’s perspective](http://www.goodreads.com/book/show/829182.Computer_Systems)
+
 
 ## Certifications & Assessment
 
