@@ -15,6 +15,11 @@
 ## Blogs
 
 ## Books
+- [📕 The code book (1999)](http://www.goodreads.com/book/show/17994.The_Code_Book)
+- [📖 Engineering security (2014)](https://www.cs.auckland.ac.nz/~pgut001/pubs/book.pdf)
+- [📖 Graduate course in applied cryptography (2016)](https://crypto.stanford.edu/~dabo/cryptobook/draft_0_3.pdf)
+- [📖 Practical Cryptography for Developers (2018)](https://cryptobook.nakov.com/?q=)
+
 
 ## Certifications & Assessment
 
