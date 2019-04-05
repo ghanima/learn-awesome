@@ -101,6 +101,14 @@
 - [Types, Logic, and Verification (2013)](https://www.fcs.uoregon.edu/research/summerschool/summer13/curriculum.html)
 - [Discrete Mathematics and Probability Theory](http://www-inst.eecs.berkeley.edu/%7Ecs70/archives.html) 🆓
 
+## Documenteries
+
+- [Euler's Identity](https://www.youtube.com/watch?v=sKtloBAuP74)
+- [Fractals - the colours of infinity](http://topdocumentaryfilms.com/fractals-colors-infinity/)
+- [But what is the Fourier Transform? A visual introduction.](https://www.youtube.com/watch?v=spUNpyF58BY)
+- [Neural networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+- [Essence of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+
 ## Forums, Group chats
 
 ## Games
