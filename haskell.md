@@ -12,6 +12,8 @@
 
 ## Audio, Podcasts
 
+- [The Haskell Cast](http://www.haskellcast.com/)
+
 ## Blogs
 
 - [FPcomplete](https://www.fpcomplete.com/)
