@@ -129,7 +129,11 @@
 
 ## Interactives
 
+- [Neural Network Playground](https://playground.tensorflow.org/)
+
 ## Learning Plans
+
+- [The Open Source Data Science Masters](http://datasciencemasters.org/)
 
 ## Livestreams
 
