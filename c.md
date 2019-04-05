@@ -18,6 +18,10 @@
 
 ## Books
 
+- [📕 The C programming language (1975)](http://www.goodreads.com/book/show/515601.The_C_Programming_Language)
+- [📕 21st century C (2014)](http://shop.oreilly.com/product/0636920033677.do)
+
+
 ## Certifications & Assessment
 
 ## Code
