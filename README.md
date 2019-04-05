@@ -1,6 +1,13 @@
 # learn-awesome
 
-In this repo, we curate lists of awesome learning resources on various topics categorized by formats like articles, books, courses, podcasts, games, study plans etc.
+[![Gitter](https://img.shields.io/badge/-Gitter-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://gitter.im/learn-awesome/community)
+[![Twitter](https://img.shields.io/badge/-Twitter-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://twitter.com/learn_awesome)
+
+#### Awesome learning resources organized by topics, formats and difficulty.
+
+## What is learn-awesome?
+
+With the explosion of information available on the Internet, it has become difficult to find the best learning resources on any topic. Some really amazing things are available on the Web, but learning platforms are typically tied to a single format and want to keep you within their site/app. In other words, learning apps are not actually learner-centric. For any given topic (say, machine learning), it should be easy to find best courses, best podcasts, best books, best articles, best Q&A sites, best chat groups, best people to follow, the best research papers, best interactive exercises/playgrounds and so on.
 
 We have collected links for [life](life.md), [learning](learning.md), [thinking](thinking.md), [communicating](communicating.md), [health](health.md), [wealth](wealth.md), [relationships](relationships.md), [parenting](parenting.md) etc.
 
@@ -14,11 +21,9 @@ You should join us to expand and improve our collection! Use this [template](tem
 
 ---
 
-## What is learn-awesome?
+## Future
 
-With the explosion of information available on the Internet, it has become difficult to find the best learning resources on any topic. Some really amazing things are available on the Web, but learning platforms are typically tied to a single format and want to keep you within their site/app. In other words, learning apps are not actually learner-centric. For any given topic (say, machine learning), it should be easy to find best courses, best podcasts, best books, best articles, best Q&A sites, best chat groups, best people to follow, the best research papers, best interactive exercises/playgrounds and so on.
-
-The problem goes beyond simply collecting links. An effective learning system needs to support personalization on at least a few dimensions:
+The problem of optimal learning goes beyond simply collecting links. An effective learning system needs to support personalization on at least a few dimensions:
 
 - What formats does the student prefer? The same set of ideas can be consumed in a course, in a shorter TED talk, in a book, in a podcast, in an article etc. The student should be able to filter the set of links on this dimension.
 - What's the context of the learning goal? Imagine student A who wants to learn linear algebra for its own sake vs student B who wants to learn it in the context of machine learning. Both will benefit from different learning resources.
