@@ -16,6 +16,10 @@
 
 ## Books
 
+- [📖 Type Theory & Functional Programming (1999)](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/ttfp.pdf)
+- [📕 Type Theory and Formal Proof: An Introduction (2014)](https://www.goodreads.com/book/show/21442441-type-theory-and-formal-proof)
+
+
 ## Certifications & Assessment
 
 ## Code
