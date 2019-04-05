@@ -14,6 +14,8 @@
 
 ## Blogs
 
+- [Natural Language Processing NL](https://nlpers.blogspot.nl/)
+
 ## Books
 
 ## Certifications & Assessment
