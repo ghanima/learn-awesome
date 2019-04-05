@@ -14,6 +14,9 @@
 
 ## Blogs
 
+- [AirBlade Software](https://airbladesoftware.com/notes/)
+- [Bluz71](https://bluz71.github.io/)
+
 ## Books
 
 - [📕 Practical vim: Edit Text at the Speed of Thought (2012)](http://www.goodreads.com/book/show/13607232-practical-vim)
