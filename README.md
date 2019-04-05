@@ -10,7 +10,7 @@ A lot of our current users are programmers. And so we have: [Git](git.md), [algo
 
 For hobbies, we currently have [magic](magic.md), [music](music.md) & [photography](photography.md). 
 
-You should join us to expand and improve our collection! Use this [template](template.md) to create a page for a new topic and send us a pull request. :-)
+You should join us to expand and improve our collection! Use this [template](template.md) to create a page for a new topic and send us a pull request. For discussions, come over to [Gitter](https://gitter.im/learn-awesome/). Happy learning :-)
 
 ---
 
