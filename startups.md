@@ -26,6 +26,10 @@
 
 ## Books
 
+- [📕 Running Lean (2012)](https://www.goodreads.com/book/show/13078769-running-lean)
+- [📕 Zero to one (2014)](http://www.goodreads.com/book/show/18050143-zero-to-one)
+- [📕 Just fucking ship (2014)](https://www.goodreads.com/book/show/23700819-just-fucking-ship)
+
 ## Certifications & Assessment
 
 ## Code
