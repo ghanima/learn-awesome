@@ -23,7 +23,26 @@
 
 ## Blogs
 
+- [Ankit](http://ankit.im)
+- [Ash Furrow](https://ashfurrow.com/)
+- [Eon Codes](http://eon.codes)
+- [Fresh Swift](http://freshswift.net/)
+- [Joe Groff](http://duriansoftware.com/joe/index.html) - Works on Swift languge at Apple.
+- [Michael Kyriacou](http://codeforcaffeine.com/)
+- [NSHipster](http://nshipster.com/)
+- [Oleg Dreyman](https://medium.com/@olegdreyman)
+- [Silver fox](https://silverfox.be/blog/)
+- [Swift by Sundell](https://www.swiftbysundell.com/)
+- [Vinh nguyen](https://ninjapro.wordpress.com/)
+- [Yoans Kolb](http://yonaskolb.com)
+
+
 ## Books
+
+- [📖 Swift programming language (2014)](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/)
+  - [Swift Cheat sheet](https://github.com/jugend/swift-cheat-sheet)
+- [📕 Hacking with macOS (2018)](https://www.hackingwithswift.com/store/hacking-with-macos)
+
 
 ## Certifications & Assessment
 
