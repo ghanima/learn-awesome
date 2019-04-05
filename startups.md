@@ -24,6 +24,10 @@
 
 ## Blogs
 
+- [Elad's Blog](http://blog.eladgil.com/)
+- [Paul Graham](http://www.paulgraham.com/articles.html)
+
+
 ## Books
 
 - [📕 Running Lean (2012)](https://www.goodreads.com/book/show/13078769-running-lean)
