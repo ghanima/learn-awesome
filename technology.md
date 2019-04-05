@@ -19,6 +19,10 @@
 
 ## Blogs
 
+- [Startechery](https://stratechery.com/)
+- [Tech Specs](https://techspecs.blog/)
+
+
 ## Books
 
 ## Certifications & Assessment
