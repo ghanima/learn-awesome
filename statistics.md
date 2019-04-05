@@ -14,6 +14,8 @@
 
 ## Blogs
 
+- [David Robinson](http://varianceexplained.org/posts/)
+
 ## Books
 
 - [📕 The visual display of quantitative information (1983)](http://www.goodreads.com/book/show/17744.The_Visual_Display_of_Quantitative_Information)
