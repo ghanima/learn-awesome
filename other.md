@@ -78,6 +78,31 @@
 
 ## Courses
 
+## Documenteries
+
+- [Alone in the wilderness](https://letterboxd.com/film/alone-in-the-wilderness/)
+- [Dear Zachary](https://letterboxd.com/film/dear-zachary-a-letter-to-a-son-about-his-father/)
+- [Going clear](https://letterboxd.com/film/going-clear-scientology-and-the-prison-of-belief/)
+- [Jiro dreams of sushi](https://letterboxd.com/film/jiro-dreams-of-sushi/)
+- [Koyaanisqatsi](https://letterboxd.com/film/koyaanisqatsi/)
+- [Searching for sugar man](https://letterboxd.com/film/searching-for-sugar-man/)
+- [The King of Kong](https://letterboxd.com/film/the-king-of-kong/)
+- [The life and work of chemist Alexander "Sasha" Shulgin](https://www.youtube.com/watch?v=nP7mRrsNFWI)
+- [The queen of Versailles](https://letterboxd.com/film/the-queen-of-versailles/)
+- [Artificial Intelligence](https://www.youtube.com/watch?v=5J5bDQHQR1g)
+- [The Great Silence](https://www.youtube.com/watch?v=ryg077wBvsM)
+- [Man on Wire](https://letterboxd.com/film/man-on-wire/)
+- [Free Solo](https://letterboxd.com/film/free-solo/)
+- [Touching the Void](https://letterboxd.com/film/touching-the-void/)
+- [Meru](https://letterboxd.com/film/meru/)
+
+## Related
+
+- [Documentary heaven](http://documentaryheaven.com/)
+- [Documentary storm](https://documentarystorm.com/)
+- [Top documentary films](http://topdocumentaryfilms.com/)
+
+
 ## Forums, Group chats
 
 ## Games
