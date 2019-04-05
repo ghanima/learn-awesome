@@ -14,6 +14,8 @@
 
 ## Blogs
 
+- [Let's build a sqlite clone from scratch in C](https://cstack.github.io/db_tutorial/)
+
 ## Books
 
 - [📕 The data warehouse toolkit (1996)](http://www.goodreads.com/book/show/748203.The_Data_Warehouse_Toolkit)
