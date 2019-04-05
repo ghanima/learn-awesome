@@ -27,6 +27,12 @@
 
 ## Courses
 
+## Documenteries
+
+- [Cosmos: a spacetime odyssey](https://letterboxd.com/film/cosmos-a-spacetime-odyssey/)
+- [Wonders of the Universe](https://letterboxd.com/film/wonders-of-the-universe/)
+- [Wonders of the Solar System](https://letterboxd.com/film/wonders-of-the-solar-system/)
+
 ## Forums, Group chats
 
 ## Games
