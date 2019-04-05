@@ -14,6 +14,8 @@
 
 ## Blogs
 
+- [Objective See](https://objective-see.com/blog.html)
+
 ## Books
 
 - [📖 Reverse Engineering for Beginners (2018)](https://beginners.re/RE4B-EN.pdf)
