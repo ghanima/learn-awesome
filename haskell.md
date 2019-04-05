@@ -24,6 +24,15 @@
 
 ## Books
 
+- [📖 Learn You a Haskell for Great Good! (2011)](http://learnyouahaskell.com/)
+- [📖 Write you a Haskell (2014)](http://dev.stephendiehl.com/fun/)
+  - [Implementation in code](https://github.com/AlphaMarc/WYAH)
+- [📕 Programming in Haskell (2016)](http://www.goodreads.com/book/show/912217.Programming_in_Haskell)
+- [📕 Haskell in Depth (2018)](https://www.manning.com/books/haskell-in-depth) - Explores the important language features and programming skills you’ll need to build production-quality software using Haskell.
+- [📕 Thinking with Types (2018)](https://leanpub.com/thinking-with-types) - Type-Level Programming in Haskell.
+- [📕 The Haskell School of Music (2018)](https://www.goodreads.com/book/show/18299474-the-haskell-school-of-music)
+
+
 ## Certifications & Assessment
 
 ## Code
