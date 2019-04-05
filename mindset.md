@@ -12,6 +12,9 @@
 
 ## Audio, Podcasts
 
+- [Hurry Slowly](http://hurryslowly.co/)
+
+
 ## Blogs
 
 ## Books
