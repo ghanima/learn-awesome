@@ -16,10 +16,24 @@
 
 ## Blogs
 
+- [AMVA4NewPhysics](https://amva4newphysics.wordpress.com/)
+- [Brilliantly Wrong](https://arogozhnikov.github.io/)
+
 ## Books
 
 - [The Feynman Lectures](http://www.feynmanlectures.caltech.edu/)
 - [Quantum Theory: A Very Short Introduction](http://www.veryshortintroductions.com/abstract/10.1093/actrade/9780192802521.001.0001/actrade-9780192802521?rskey=sBHDD5&result=486)
+- [📕 Relativity: the special and the general theory (1916)](http://www.goodreads.com/book/show/15852.Relativity)
+- [📕 University physics with modern physics](https://my.mindnode.com/1M2ZVqow9pgJ95qwCH7hnwFWdRL8sDcMQqx5b3z9)
+  - [Notes](http://web.sbu.edu/physics/courses/physics-203p.pdf)
+- [📕 Nonlinear dynamics and chaos (1994)](http://www.goodreads.com/book/show/116164.Nonlinear_Dynamics_and_Chaos)
+- [📕 Pale blue dot (1994)](http://www.goodreads.com/book/show/61663.Pale_Blue_Dot)
+- [📕 Black holes and time warps (1994)](http://www.goodreads.com/book/show/17362.Black_Holes_Time_Warps)
+- [📕 The fabric of the cosmos (2004)](http://www.goodreads.com/book/show/22435.The_Fabric_of_the_Cosmos)
+- [📕 Fields of colour: the theory that escaped Einstein (2010)](http://www.goodreads.com/book/show/13485212-fields-of-color)
+- [📕 The theoretical minimum (2013)](http://www.goodreads.com/book/show/13587145-the-theoretical-minimum)
+- [📖 The feynman lectures on physics (2013)](http://feynmanlectures.caltech.edu/)
+
 
 ## Certifications & Assessment
 
