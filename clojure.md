@@ -19,6 +19,9 @@
 
 ## Books
 
+- [📕 Elements of Clojure (2017)](https://www.goodreads.com/book/show/31159768-elements-of-clojure)
+
+
 ## Certifications & Assessment
 
 ## Code
