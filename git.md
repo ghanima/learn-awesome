@@ -16,6 +16,9 @@
 
 ## Books
 
+- [📖 Git in practice (2014)](https://content.mirantis.com/rs/451-RBY-185/images/McQuaid-git-in-practice.pdf)
+- [📖 Pro git (2014)](https://git-scm.com/book/en/v2)
+
 ## Certifications & Assessment
 
 ## Code
