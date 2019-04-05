@@ -22,6 +22,8 @@
 
 ## Books
 
+- [📕 How linux works (2014)](http://www.goodreads.com/book/show/514432.How_Linux_Works)
+
 ## Certifications & Assessment
 
 ## Code
