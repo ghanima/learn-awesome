@@ -19,6 +19,11 @@
 
 ## Books
 
+- [📕 C++ primer (1989)](http://www.goodreads.com/book/show/120642.C_Primer_Plus)
+- [📕 Beginning c++ through game programming (2004](http://www.goodreads.com/book/show/852335.Beginning_C_Through_Game_Programming)
+- [📖 C++ core guidelines (2017)](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
+
+
 ## Certifications & Assessment
 
 ## Code
