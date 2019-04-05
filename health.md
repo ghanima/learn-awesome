@@ -12,6 +12,10 @@
 
 ## Audio, Podcasts
 
+- [FoundMyFitness](https://overcast.fm/itunes818198322/foundmyfitness) - Podcast about health, science, nutrition, aging, and fitness.
+- [Foodist with Darya Rose, Ph.D](https://overcast.fm/itunes1090954776/foodist-with-darya-rose-ph-d)
+
+
 ## Blogs
 
 ## Books
