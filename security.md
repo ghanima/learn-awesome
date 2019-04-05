@@ -16,6 +16,14 @@
 
 ## Blogs
 
+- [Devs Love Security](http://devs.cloudimmunity.com)
+- [Krebs on Security](https://krebsonsecurity.com/)
+- [Ray Wang](https://raywang.tech/archives/)
+- [Simone Margaritelli](https://www.evilsocket.net/)
+- [Troy Hunt](https://www.troyhunt.com/)
+- [Zdziarski's Blog of Things](https://www.zdziarski.com/blog/)
+
+
 ## Books
 
 - [📕 The database hacker’s handbook (2005)](http://www.goodreads.com/book/show/369905.The_Database_Hacker_s_Handbook) - Most detailed book available for attacking databases (covers basic through advanced topics).
