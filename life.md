@@ -32,6 +32,8 @@
 
 ## Courses
 
+- [A Life of Happiness and Fulfillment](https://www.coursera.org/learn/happiness)
+
 ## Forums, Group chats
 
 ## Games
