@@ -40,7 +40,35 @@
 
 ## Blogs
 
+- [Daring Fireball](https://til.hashrocket.com/)
+- [Dave Lee](http://heydave.org/)
+- [Dean Sherwood](http://deansherwood.com/deansblog)
+- [Disregard Everything I Say](http://disregardeverythingisay.com/)
+- [Pavel Miroshenko](https://pavel.miroshnichen.co/)
+- [Steve Pavlina](https://www.stevepavlina.com/blog/)
+- [Today I Learned](https://til.hashrocket.com/)
+
+### Related
+
+- [Data Science Blogs](https://github.com/rushter/data-science-blogs#readme)
+- [Data Science Blogs](https://www.cybrhome.com/topic/data-science-blogs)
+- [Engineering Blogs of Companies](https://www.cybrhome.com/topic/engineering-blogs-of-companies)
+- [Engineering Blogs](https://github.com/kilimchoi/engineering-blogs#readme)
+- [Programming Blog List](http://danluu.com/programming-blogs/)
+- [Awesome Personal Blogs](https://github.com/jkup/awesome-personal-blogs#readme)
+
 ## Books
+
+- [Awesome fantasy](https://github.com/RichardLitt/awesome-fantasy#readme)
+- [Awesome scifi](https://github.com/sindresorhus/awesome-scifi#readme)
+- [Book notes](https://github.com/mgp/book-notes#readme)
+- [Book suggestions subreddit](https://www.reddit.com/r/booksuggestions)
+- [Free programming books](https://github.com/EbookFoundation/free-programming-books#readme)
+- [Influential CS books](https://github.com/chhantyal/influential-cs-books#readme)
+- [Language-agnostic programming books](https://news.ycombinator.com/item?id=14486657)
+- [Mind expanding books](https://github.com/hackerkid/Mind-Expanding-Books#readme)
+- [Recommended reading for developers](https://blog.codinghorror.com/recommended-reading-for-developers)
+
 
 ## Certifications & Assessment
 
