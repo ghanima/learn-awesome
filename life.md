@@ -11,6 +11,7 @@
 ## Articles
 
 - [Make Your Own Rules](https://www.ribbonfarm.com/2018/02/15/make-your-own-rules/) by [Venkatesh Rao](#people)
+- [Modes of Living](https://invertedpassion.com/modes-of-living/) by [Paras Chopra](#people)
 
 ## Audio, Podcasts
 
