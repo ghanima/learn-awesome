@@ -21,6 +21,9 @@
 
 ## Books
 
+- [📕 iOS 10 programming fundamentals with swift (2015)](http://shop.oreilly.com/product/0636920055211.do)
+
+
 ## Certifications & Assessment
 
 ## Code
