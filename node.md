@@ -18,6 +18,9 @@
 
 ## Books
 
+- [📖 Node up and running (2012)](http://chimera.labs.oreilly.com/books/1234000001808/index.html)
+
+
 ## Certifications & Assessment
 
 ## Code
