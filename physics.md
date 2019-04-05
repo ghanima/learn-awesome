@@ -14,6 +14,9 @@
 
 ## Audio, Podcasts
 
+- [Sean Carroll's Mindscape: Science, Society, Philosophy, Culture, Arts, and Ideas](https://overcast.fm/itunes1406534739/sean-carrolls-mindscape-science-society-philosophy-culture-arts-and-ideas) - Sean Carroll hosts conversations with the world’s most interesting thinkers.
+
+
 ## Blogs
 
 - [AMVA4NewPhysics](https://amva4newphysics.wordpress.com/)
