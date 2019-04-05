@@ -17,6 +17,7 @@
 
 
 ## Books
+- [📖 Learn CSS Layout the pedantic way (2015)](http://book.mixu.net/css/)
 
 ## Certifications & Assessment
 
